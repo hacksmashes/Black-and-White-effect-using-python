@@ -1,5 +1,5 @@
 # Black-and-White-effect-using-python
-This is used to convert co;or image to grayscale image.
+This is used to convert color image to grayscale image.
 
 Modules used:
   - cv2
